@@ -1,0 +1,200 @@
+BIG_MESSAGE.EXTRACTION.ACTIVATED	Точка сбора активирована
+BIG_MESSAGE.EXTRACTION.COMPLETED	Точка сбора завершена
+FOCUS.EXTRACTION.FILL_VALUABLES	Заполни точку сбора различными предметами
+FOCUS.EXTRACTION.AVOID_GRENADES	Избегай гранат!
+FOCUS.EXTRACTION.FIND_NEXT	Найди следующую точку сбора
+FOCUS.EXTRACTION.BACK_TO_TRUCK	Вернись в фургон!
+TUTORIAL.TRANSITION_TEXT	Прекрасно!
+TUTORIAL.MOVEMENT.TEXT	Используй [move], чтобы передвигаться.
+TUTORIAL.MOVEMENT.FOCUS_TEXT	Ходи, чтобы заполнить шкалу прогресса!
+TUTORIAL.MOVEMENT.DUMMY_TEXT	Используй [move] на клавиатуре, пока шкала прогресса не дойдет до конца!
+TUTORIAL.JUMPING.TEXT	Нажми [jump], чтобы прыгнуть.
+TUTORIAL.JUMPING.FOCUS_TEXT	Прыгай, чтобы заполнить шкалу прогресса!
+TUTORIAL.JUMPING.DUMMY_TEXT	Нажимай [jump] чтобы прыгать, пока шкала прогресса не дойдет до конца!
+
+TUTORIAL.SNEAKING.TEXT	Нажми [crouch] чтобы присесть. Так зрение монстров ухудшается.
+TUTORIAL.SNEAKING.FOCUS_TEXT	Пригнись, чтобы заполнить шкалу прогресса!
+TUTORIAL.SNEAKING.DUMMY_TEXT	Удерживай [crouch] и используй [move], пока шкала прогресса не дойдет до конца!
+
+TUTORIAL.HIDING.TEXT	Используй [crouch], чтобы залезть под предмет.
+TUTORIAL.HIDING.FOCUS_TEXT	Скройся, чтобы заполнить шкалу прогресса!
+TUTORIAL.HIDING.DUMMY_TEXT	Удерживай [crouch] и залезь под предмет. Оставайся там, пока шкала прогресса не дойдет до конца!
+
+TUTORIAL.SPRINTING.TEXT	Удерживай [sprint] чтобы бежать. Бег расходует энергию.
+TUTORIAL.SPRINTING.FOCUS_TEXT	Бегай, чтобы заполнить шкалу прогресса!
+TUTORIAL.SPRINTING.DUMMY_TEXT	Удерживай [sprint] и используй [move], чтобы бегать, пока шкала прогресса не не дойдет до конца! Если нету энергии, просто подожди!
+
+TUTORIAL.TUMBLING.TEXT	Нажми [tumble] пока бежишь, чтобы сделать кувырок. Это иногда помогает!
+TUTORIAL.TUMBLING.FOCUS_TEXT	Сделай кувырок, чтобы заполнить шкалу прогресса!
+TUTORIAL.TUMBLING.DUMMY_TEXT	Беги с помощью [sprint], прыгни с помощью [jump] и нажми [tumble] чтобы сделать кувырок. Делай это, пока шкала прогресса не дойдет до конца!
+
+TUTORIAL.GRABBING.TEXT	Хватай предметы с помощью [grab].
+TUTORIAL.GRABBING.FOCUS_TEXT	Схвати предмет, чтобы заполнить шкалу прогресса!
+TUTORIAL.GRABBING.DUMMY_TEXT	Нажми и удерживай [grab] на предмете, пока шкала прогресса не дойдет до конца!
+
+TUTORIAL.PUSHING_AND_PULLING.TEXT	Используй [push], чтобы приблизить или отдалить удерживаемый объект.
+TUTORIAL.PUSHING_AND_PULLING.FOCUS_TEXT	Измени дистанцию до удерживаемого предмета!
+TUTORIAL.PUSHING_AND_PULLING.DUMMY_TEXT	Нажми и удерживай [grab] на предмете и используй [push], чтобы приблизить или отдалить его!
+
+TUTORIAL.ROTATING.TEXT	Вращай удерживаемый предмет с помощью [grab2].
+TUTORIAL.ROTATING.FOCUS_TEXT	Вращай предметы, чтобы зполнить шкалу прогресса!
+TUTORIAL.ROTATING.DUMMY_TEXT	Пока ты удерживаешь предмет с помощью [grab], нажми и удержи [grab2] и передвигай мышь, чтобы его вращать. Вращай его, пока шкала прогресса не дойдет до конца!
+TUTORIAL.ITEM_TOGGLING.TEXT	Удерживай предмет и нажми [interact], чтобы его активировать.
+TUTORIAL.ITEM_TOGGLING.FOCUS_TEXT	Включи и выключи этот предмет!
+TUTORIAL.ITEM_TOGGLING.DUMMY_TEXT	Схвати шарик с помощью [grab] и переключай его используя [interact], пока шкала прогресса не заполнится!
+
+TUTORIAL.INVENTORY_FILL.TEXT	Схвати предмет и нажми [inventory1]/[inventory2]/[inventory3], чтобы положить его в свой инвентарь.
+TUTORIAL.INVENTORY_FILL.FOCUS_TEXT	Заполни свой инвентарь!
+TUTORIAL.INVENTORY_FILL.DUMMY_TEXT	Пока ты удерживаешь предмет с помощью [grab], нажми [inventory1]/[inventory2]/[inventory3]. Заполни свой инвентарь, чтобы заполнить шкалу прогресса!
+TUTORIAL.INVENTORY_EMPTY.TEXT	Используй [inventory1]/[inventory2]/[inventory3], чтобы достать вещи.
+TUTORIAL.INVENTORY_EMPTY.FOCUS_TEXT	Очисти свой инвентарь!
+TUTORIAL.INVENTORY_EMPTY.DUMMY_TEXT	Используй [inventory1]/[inventory2]/[inventory3] чтобы очищать свой инвентарь, пока шкала прогресса не дойдет до конца!
+TUTORIAL.MAP.TEXT	Используй [map] чтобы открыть карту. Карта <b><u>НЕОБХОДИМА</u></b> в навигации.
+TUTORIAL.MAP.FOCUS_TEXT	Открой карту!
+TUTORIAL.MAP.DUMMY_TEXT	Удерживай [map] и смотри на карту, пока шкала прогресса не дойдет до конца!
+TUTORIAL.CART_HANDLING_1.TEXT	Это Т.Е.Л.Е.Ж.К.А. Возьмись за ручку!
+TUTORIAL.CART_HANDLING_1.FOCUS_TEXT	Пройдись немного с Т.Е.Л.Е.Ж.К.О.Й.!
+TUTORIAL.CART_HANDLING_1.DUMMY_TEXT	Возьмись за ручку Т.Е.Л.Е.Ж.К.И. с помощью [grab] и походи с ней, пока шкала прогресса не дойдет до конца!
+TUTORIAL.CART_HANDLING_2.TEXT	Заполни Т.Е.Л.Е.Ж.К.У. предметами. Т.Е.Л.Е.Ж.К.И. <b><u>НЕОБХОДИМЫ</u></b> в транспортировке больших грузов.
+TUTORIAL.CART_HANDLING_2.FOCUS_TEXT	Положи ценности в Т.Е.Л.Е.Ж.К.У.!
+TUTORIAL.CART_HANDLING_2.DUMMY_TEXT	Положи три предмета в Т.Е.Л.Е.Ж.К.У.
+TUTORIAL.EXTRACTION_POINTS.TEXT	Активируй и заполни <b><u>ТОЧКУ СБОРА</u></b> предметами.
+TUTORIAL.EXTRACTION_POINTS.FOCUS_TEXT	Сдай ценности!
+TUTORIAL.EXTRACTION_POINTS.DUMMY_TEXT	ПРИВЕТ! НАПОЛНИ <b><u>ТОЧКУ СБОРА</u></b> ЦЕННОСТЯМИ!
+TUTORIAL.TRUCK.TEXT	Войди в <b><u>ФУРГОН</u></b> и отправь сообщение своему боссу, чтобы завершить уровень.
+TUTORIAL.TRUCK.FOCUS_TEXT	Зайди в фургон и отправь сообщение!
+TUTORIAL.TRUCK.DUMMY_TEXT	Зайди в фургон, схвати и удерживай область сообщений на экране фургона с помощью [grab], чтобы отправить сообщение!
+TUTORIAL.HEALING.TEXT	Делись HP с напарниками, схватив их шеи!
+TUTORIAL.REVIVING.TEXT	Возраждай своих напарников, путем сдачи их голов!
+TUTORIAL.CHARGING_STATION.TEXT	Купи <b><u>ЭНЕРГЕТИЧЕСКИЕ КРИСТАЛЛЫ</u></b> для <b><u>ЗАРЯДНОЙ СТАНЦИИ</u></b> чтобы заряжать и чинить своё снаряжение!
+TUTORIAL.ONLY_ONE_EXTRACTION.TEXT	За раз может быть активна только одна <b><u>ТОЧКА СБОРА</u></b>, найди её с помощью карты!
+TUTORIAL.CHAT.TEXT	Нажми [chat], чтобы открыть чат! Это весело!
+TUTORIAL.FINAL_EXTRACTION.TEXT	Время покинуть это место, фургон восстанавливает HP и возраждает принесённые головы!
+TUTORIAL.MULTIPLE_EXTRACTIONS.TEXT	На этом уровне несколько <b><u>ТОЧЕК СБОРА</u></b>, чтобы отправиться дальше, нужно завершить их все!
+TUTORIAL.SHOP.TEXT	Это <b><u>МАГАЗИН</u></b>, сдай предметы, чтобы их приобрести. Здесь тебе ничего не угрожает!
+TUTORIAL.EXPRESSIONS.TEXT	Используй [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6], чтобы выражать свои эмоции. Их даже можно смешивать!
+TUTORIAL.OVERCHARGE_1.TEXT	Захват врага теперь вызывает перегрузку. Когда шкала заполнится, тебя отбросит взрывом.
+TUTORIAL.OVERCHARGE_2.TEXT	Несколько человек снижают эффект перегрузки.
+TUTORIAL.HEAD_SPECTATE_1.TEXT	Пока ты мертв, твоя голова накапливает заряд. Используй его, чтобы ненадолго захватить контроль над своей головой.
+TUTORIAL.HEAD_SPECTATE_2.TEXT	Управляя своей головой, удерживай [jump], чтобы подпрыгнуть. Зажми кнопку дольше для высокого прыжка, но это потребует больше энергии.
+TUTORIAL.ENEMY_ELSA.TEXT	ПОГЛАДЬ СОБАКУ!
+MOON_UI.SKIP	[menu], чтобы пропустить
+TUTORIAL.EXTRACTION_REMINDER.TEXT	Заполняй <b><u>ТОЧКИ СБОРА</u></b> ценностями.
+TUTORIAL.COSMETIC_WORLD_OBJECT_1.TEXT	Это <b><u>КОСМЕТИЧЕСКИЙ ЯЩИК</u></b>, сдай его, чтобы получить награду.
+TUTORIAL.COSMETIC_WORLD_OBJECT_2.TEXT	Если он повредится, ты можешь <b><u>ИЗЛЕЧИТЬ</u></b> его ценой собственного здоровья.
+TUTORIAL.COSMETIC_SHOP_MACHINE.TEXT	Вставляй <b><u>ЖЕТОНЫ</u></b> в торговый автомат, чтобы забрать свои награды.
+FOCUS.PREFIX	ЗАДАЧА
+FOCUS.SHOP.INTRO	Купи предметы в магазине
+FOCUS.TRUCK.INTRO	Кайфуй от езды, починки предметов и ПРОКАЧКИ!
+COSMETIC_SHOP_MACHINE.INFO_TEXT	Нажми [interact], чтобы вставить жетон
+ITEM.CART_CANNON	Пушка для Т.Е.Л.Е.Ж.К.И.
+ITEM.CART_LASER	Лазер для Т.Е.Л.Е.Ж.К.И.
+ITEM.CART_MEDIUM	Т.Е.Л.Е.Ж.К.А.
+ITEM.CART_SMALL	КАРМАННАЯ Т.Е.Л.Е.Ж.К.А.
+ITEM.DRONE_BATTERY	Дрон-зарядка
+ITEM.DRONE_FEATHER	Дрон-перо
+ITEM.DRONE_INDESTRUCTIBLE	Дрон неразрушимости
+ITEM.DRONE_TORQUE	Дрон вращения
+ITEM.DRONE_ZERO_GRAVITY	Дрон невесомости
+ITEM.DUCK_BUCKET	Утиное ведро
+ITEM.EXTRACTION_TRACKER	Датчик точки сбора
+ITEM.GRENADE_DUCT_TAPED	Гранаты, смотанные изолентой
+ITEM.GRENADE_EXPLOSIVE	Граната
+ITEM.GRENADE_HUMAN	Человеческая граната
+ITEM.GRENADE_SHOCKWAVE	Импульсная граната
+ITEM.GRENADE_STUN	Светошумовая граната
+ITEM.GUN_HANDGUN	Пистолет
+ITEM.GUN_LASER	Фотоновый бластер
+ITEM.GUN_SHOCKWAVE	Импульсный пистолет
+ITEM.GUN_SHOTGUN	Дробовик
+ITEM.GUN_STUN	Арбалет-шокер
+ITEM.GUN_TRANQ	Транквилизатор
+ITEM.HEALTH_PACK_LARGE	Большая аптечка (100)
+ITEM.HEALTH_PACK_MEDIUM	Средняя аптечка (50)
+ITEM.HEALTH_PACK_SMALL	маленькая аптечка (25)
+ITEM.LEAF_BLOWER	Воздуходув
+ITEM.MELEE_BASEBALL_BAT	Бита
+ITEM.MELEE_FRYING_PAN	Сковорода
+ITEM.MELEE_INFLATABLE_HAMMER	Надувной молоток
+ITEM.MELEE_SLEDGE_HAMMER	Кувалда
+ITEM.MELEE_STUN_BATON	Электрошокер
+ITEM.MELEE_SWORD	Меч
+ITEM.MINE_EXPLOSIVE	Взрывная мина
+ITEM.MINE_SHOCKWAVE	Импульсная мина
+ITEM.MINE_STUN	Мина-шокер
+ITEM.ORB_ZERO_GRAVITY	Орб невесомости
+ITEM.PHASE_BRIDGE	Фазовый мост
+ITEM.POWER_CRYSTAL	Энергетический кристалл
+ITEM.REVIVE_ITEM	Дефибро
+ITEM.RUBBER_DUCK	Резиновая утка
+ITEM.STAFF_TORQUE	Посох вращения
+ITEM.STAFF_VOID	Посох пустоты
+ITEM.STAFF_ZERO_GRAVITY	Посох невесомости
+ITEM.UPGRADE_DEATH_HEAD_BATTERY	Улучшение батареи мёртвой головы
+ITEM.UPGRADE_MAP_PLAYER_COUNT	Улучшение: Отображение игроков на карте
+ITEM.UPGRADE_PLAYER_CROUCH_REST	Улучшение восстановления сидя
+ITEM.UPGRADE_PLAYER_ENERGY	Улучшение выносливости
+ITEM.UPGRADE_PLAYER_EXTRA_JUMP	Улучшение: Дополнительный прыжок
+ITEM.UPGRADE_PLAYER_GRAB_RANGE	Улучшение дальности захвата
+ITEM.UPGRADE_PLAYER_GRAB_STRENGTH	Улучшение силы
+ITEM.UPGRADE_PLAYER_HEALTH	Улучшение здоровья
+ITEM.UPGRADE_PLAYER_SPRINT_SPEED	Улучшение скорости бега
+ITEM.UPGRADE_PLAYER_TUMBLE_CLIMB	Улучшение: карабканье кувырком
+ITEM.UPGRADE_PLAYER_TUMBLE_LAUNCH	Улучшение разгона кувырком
+ITEM.UPGRADE_PLAYER_TUMBLE_WINGS	Улучшение: Крылья в кувырке
+ITEM.VALUABLE_TRACKER	Детектор ценностей
+ITEM.VEHICLE_SEMISCOOTER	Тягач
+ITEM.VEHICLE_SEMISCOOTER_SMALL	Разведчик
+ITEM.WALKIE_TALKIE	Рация
+ITEM.WALKIE_TALKIE_BOX	Рации
+STATS.UPGRADES.HEADER	Улучшения
+LEVEL.HEADER	Уровень
+STATS.UPGRADE.CROUCH_REST	Восстановление сидя
+STATS.UPGRADE.DEATH_HEAD_BATTERY	Батарея мёртвой головы
+STATS.UPGRADE.EXTRA_JUMP	Дополнительный прыжок
+STATS.UPGRADE.HEALTH	Здоровье
+STATS.UPGRADE.LAUNCH	Разгон кувырком
+STATS.UPGRADE.MAP_PLAYER_COUNT	отображение игроков на карте
+STATS.UPGRADE.RANGE	Дальность захвата
+STATS.UPGRADE.SPEED	Скорость бега
+STATS.UPGRADE.STAMINA	Выносливость
+STATS.UPGRADE.STRENGTH	Сила
+STATS.UPGRADE.TUMBLE_CLIMB	Карабканье кувырком
+STATS.UPGRADE.TUMBLE_WINGS	Крылья в кувырке
+ENEMY.ANIMAL	Животное
+ENEMY.BANG	Вышибала
+ENEMY.BEAMER	Клоун
+ENEMY.BIRTHDAY_BOY	Именинник
+ENEMY.BOMB_THROWER	Уборщик
+ENEMY.BOWTIE	Бабочка
+ENEMY.CEILING_EYE	Глаз
+ENEMY.DUCK	Утка
+ENEMY.ELSA	Эльза
+ENEMY.FLOATER	Менталист
+ENEMY.GNOME	Гном
+ENEMY.HEAD	Голова
+ENEMY.HEAD_GRABBER	Гоблин
+ENEMY.HEART_HUGGER	Сердцеед
+ENEMY.HIDDEN	невидимка
+ENEMY.HUNTER	Охотник
+ENEMY.OOGLY	Комар
+ENEMY.ROBE	Мантия
+ENEMY.RUNNER	Жнец
+ENEMY.SHADOW	Бабка
+ENEMY.SLOW_MOUTH	Блевун
+ENEMY.SLOW_WALKER	Громила
+ENEMY.SPINNY	Додеп
+ENEMY.THIN_MAN	Теневой ребёнок
+ENEMY.TICK	Клещ
+ENEMY.TRICYCLE	Белла
+ENEMY.TUMBLER	Шеф
+ENEMY.UPSCREAM	Крикун
+ENEMY.VALUABLE_THROWER	Малыш
+UPGRADE_STAND.INTERACT	Удержи для смены ({cost})
+ARENA.WINNER.KING	Лучший из Худших!
+ARENA.WINNER.LOSERS	Вы все неудачники!
+ARENA.MESSAGE.LAST_LOSER_STANDING	Последний выживший неудачник
+ARENA.MESSAGE.GAME_OVER	Игра окончена
+SPECTATE_LIST.HEADER	Мёртвые:
+ITEM.CART.MODE_STRONG	Режим: сильный
+ITEM.CART.MODE_WEAK	Режим: слабый
