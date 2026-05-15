@@ -362,3 +362,21 @@ LOADING.LEVEL.SHOP	Магазин
 LOADING.LEVEL.LEVEL_NUMBER	Уровень {number}
 LOADING.LEVEL.GAME_OVER	Игра окончена
 SAVES.SAVE_INFO.PLAYER_SOLO	Ты сделал это в одиночку!
+POPUP.SAVE_LIMIT.HEADER	Лимит сохранений достигнут
+POPUP.SAVE_LIMIT.BODY	Одовременно может существовать {limit} сохранений. Пожалуйста, удали прошлые слоты, чтобы создать новые.
+POPUP.SAVE_LIMIT.BUTTON	Окей
+POPUP.KICKED.HEADER	Тебя кикнули
+POPUP.KICKED.BODY	Хост кикнул тебя.
+POPUP.KICKED.BUTTON	Лан
+POPUP.DISCONNECTED.HEADER	Тебя отключили
+POPUP.DISCONNECTED.STUCK_LOADING	Загрузка встала
+POPUP.DISCONNECTED.HOST_DISCONNECTED	Хост отключился
+POPUP.DISCONNECTED.BUTTON	Ладно
+POPUP.VERSION_MISMATCH.HEADER	Неверная версия игры
+POPUP.VERSION_MISMATCH.BODY	Лобби использует версию:\n{version}
+POPUP.VERSION_MISMATCH.BUTTON	Лан
+POPUP.LOBBY_CLOSED.HEADER	Лобби закрылось
+POPUP.LOBBY_CLOSED.BODY	Лобби закрылось.
+POPUP.LOBBY_CLOSED.BUTTON	Лан
+POPUP.DISCONNECTED.CAUSE_PREFIX	Причина:
+POPUP.DISCONNECTED.BANNED_LOBBY	Тебе нельзя входить в это лобби.
